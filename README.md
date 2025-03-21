@@ -1,4 +1,4 @@
-# Waves - Business Website
+# Waves Landing Page
 
 ## Development
 
